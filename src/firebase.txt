@@ -1,0 +1,9 @@
+var firebaseConfig = {
+    apiKey: "AIzaSyB-YCwykyGPIZvrjhQ2uP43JnATHh9lUqc",
+    authDomain: "crown-clothing-db-19982.firebaseapp.com",
+    projectId: "crown-clothing-db-19982",
+    storageBucket: "crown-clothing-db-19982.appspot.com",
+    messagingSenderId: "506625570032",
+    appId: "1:506625570032:web:4b7a73c1485c8f4152fe35",
+    measurementId: "G-XPT88YWFNW"
+  };
