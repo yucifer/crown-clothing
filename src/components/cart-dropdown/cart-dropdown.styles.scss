@@ -11,6 +11,12 @@
   right: 60px; //Change this if necessary to right: 0;
   z-index: 5;
 
+  .empty-message {
+    font-size: 18px;
+    margin: 50px auto;
+    color: rgb(95, 94, 94);
+  }
+
   .cart-items {
     height: 240px;
     display: flex;
