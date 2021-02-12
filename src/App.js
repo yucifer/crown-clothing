@@ -48,6 +48,7 @@ class App extends React.Component {
   }
 
   render() {
+    console.log("NODE_ENV = ", process.env.NODE_ENV);
     return (
       <div className="app">
         <Header />
